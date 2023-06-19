@@ -1,0 +1,27 @@
+//subscribe-banner
+.subscribe-banner {
+    height: 600px;
+    background-image: url(https://hexschool.github.io/webLayoutTraining1st/perfume-week6/index10.jpg);
+}
+
+.subscribe-slogan {
+    padding-top: 312px;
+}
+
+.input-group {
+    margin-top: 20px;
+}
+
+//footer
+.right-reserved {
+    font-size: 14px;
+}
+
+.list-link {
+    color: $white;
+    padding: 0 18px 0;
+
+    &:hover {
+        color: $yellow-300;
+    }
+}

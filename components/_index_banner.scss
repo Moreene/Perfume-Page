@@ -1,0 +1,14 @@
+.banner{
+    height: 480px;
+    background-image: url(https://hexschool.github.io/webLayoutTraining1st/perfume-week6/index1.jpg);
+}
+
+.banner-btn{
+    padding: 12px 0;
+}
+
+@include media-breakpoint-up(md) { 
+    .banner{
+        height: 870px;
+    }
+ }

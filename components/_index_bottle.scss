@@ -1,0 +1,14 @@
+.bottle-recycling {
+    padding: 40px 15px;
+}
+
+.bottle-img {
+    height: 520px;
+    object-fit: cover;
+}
+
+@include media-breakpoint-up(md) {
+    .bottle-recycling {
+        padding: 60px 15px;
+    }
+}

@@ -1,0 +1,12 @@
+.brand-nav .nav-link {
+    padding: 11px 14px;
+    color: $white;
+
+    &:hover {
+        color: $yellow-300;
+    }
+
+    &.active{
+        color: $yellow-300;
+    }
+}
